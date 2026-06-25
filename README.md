@@ -27,7 +27,7 @@ I'm a developer passionate about creating things that challenge my skills and fe
 
 📫 Connect With Me
 
-LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/bradenchan)   
+LinkedIn: [linkedin.com/in/bradenchan](https://linkedin.com/in/bradenchan)   
 Email: bradennchan@gmail.com
 
 ---
