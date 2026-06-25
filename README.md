@@ -18,7 +18,8 @@ I'm a developer passionate about creating things that challenge my skills and fe
 
 ## 🛠️ Skills & Tools
 
-**Languages & Frameworks:** JavaScript, Python, React, Vite  
+**Languages**: Python, JavaScript/TypeScript, Java, C/C++, CSS/HTML, SQL
+**Frameworks**: React, Electron, Vite, FastAPI, Flask, Panda3D
 **Concepts:** Full-stack architecture, API design, physics simulation, 3D graphics, responsive design  
 **Tools & Platforms:** AWS, Git, browser APIs, command-line workflows  
 **Mindset:** Problem-solving, iterative development, learning from failures
