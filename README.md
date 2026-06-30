@@ -18,10 +18,10 @@ I'm a developer passionate about creating things that challenge my skills and fe
 
 ## 🛠️ Skills & Tools
 
-**Languages**: Python, JavaScript/TypeScript, Java, C/C++, CSS/HTML, SQL  
-**Frameworks**: React, Electron, Next, FastAPI, Flask, Panda3D  
-**Concepts:** Full-stack architecture, API design, physics simulation, 3D graphics, responsive design  
-**Tools & Platforms:** AWS, Git, browser APIs, command-line workflows  
+**Languages**: Python, Java, HTML/CSS, JavaScript/TypeScript, C/C++, SQL
+**Frameworks**: React, Next.js, Express.js, Electron, FastAPI, Panda3D, Three.js
+**Developer Tools**:  Git, GitHub, Vite, Vercel, AWS Amplify, Claude API, Blender, Figma
+
 
 ---
 
